@@ -3,13 +3,13 @@
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<!--     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
   </a>
   <img src="https://komarev.com/ghpvc/xaxoxyxex&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -20,17 +20,25 @@
 <div align="center">
   <img src="https://fikiwiki.com/uploads/posts/2022-02/1644925836_43-fikiwiki-com-p-prikolnie-kartinki-pro-programmistov-46.jpg" width="600" height="300"/>
 </div>
-### :man_technologist: About Me :
-  I am from Russia.<img src="https://sopranoclub.ru/images/kartinki-flag-rossii/file40147.jpg" width="60" height="60"/>
-  I am learning python<img src="https://i.ytimg.com/vi/OoX5Xwwx6UY/maxresdefault.jpg" width="80" height="60"/>
-- :telescope: I work as a service engineer for a robotics company.
 
-- :seedling: I'm trying to start my way in programming.
-
-- :zap: In my free time, I study English and go to the gym..
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://www.tehnosecond.ru/assets/templates/images/telegram.png)](https://t.me/xaxoxyxex)
 - ---
+
+### :man_technologist: About Me :
+<div>
+    I am from Russia.<img src="https://sopranoclub.ru/images/kartinki-flag-rossii/file40147.jpg" width="60" height="60"/>
+    I am learning python<img src="https://i.ytimg.com/vi/OoX5Xwwx6UY/maxresdefault.jpg" width="80" height="60"/>
+  
+  - :telescope: I work as a service engineer for a robotics company.
+  
+  - :seedling: I'm trying to start my way in programming.
+  
+  - :zap: In my free time, I study English and go to the gym..
+  
+  - :mailbox:How to reach me: [![Linkedin Badge](https://www.tehnosecond.ru/assets/templates/images/telegram.png)](https://t.me/xaxoxyxex)
+</div>
+
+- ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -49,7 +57,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
 </div>
----
+
+- ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaxoxyxex&theme=dark&background=000000)](https://git.io/streak-stats)
