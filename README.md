@@ -1,8 +1,7 @@
-# -xaxoxyxex
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/57/4b/f1/574bf19489e134f6bd173be817faa116.jpg" width="200"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -19,18 +18,18 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://fikiwiki.com/uploads/posts/2022-02/1644925836_43-fikiwiki-com-p-prikolnie-kartinki-pro-programmistov-46.jpg" width="600" height="300"/>
 </div>
 ### :man_technologist: About Me :
-  I am a learning python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-
+  I am from Russia.<img src="https://sopranoclub.ru/images/kartinki-flag-rossii/file40147.jpg" width="60" height="60"/>
+  I am learning python<img src="https://i.ytimg.com/vi/OoX5Xwwx6UY/maxresdefault.jpg" width="80" height="60"/>
 - :telescope: I work as a service engineer for a robotics company.
 
 - :seedling: I'm trying to start my way in programming.
 
 - :zap: In my free time, I study English and go to the gym..
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://t.me/xaxoxyxex)
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.tehnosecond.ru/assets/templates/images/telegram.png)](https://t.me/xaxoxyxex)
 - ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
